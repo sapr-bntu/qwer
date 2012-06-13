@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pics/niagara_falls.PNG</file>
+    </qresource>
+</RCC>
